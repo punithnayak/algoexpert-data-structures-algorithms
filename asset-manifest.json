@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/algoexpert-data-structures-algorithms/static/css/main.2357e3aa.css",
+    "main.js": "/algoexpert-data-structures-algorithms/static/js/main.7b042391.js",
+    "index.html": "/algoexpert-data-structures-algorithms/index.html",
+    "main.2357e3aa.css.map": "/algoexpert-data-structures-algorithms/static/css/main.2357e3aa.css.map",
+    "main.7b042391.js.map": "/algoexpert-data-structures-algorithms/static/js/main.7b042391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2357e3aa.css",
+    "static/js/main.7b042391.js"
+  ]
+}
